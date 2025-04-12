@@ -1,0 +1,12 @@
+.vs/
+*.user
+*.suo
+*.cache
+*.db
+*.log
+bin/
+obj/
+
+# Credenciais do Firebase
+Firebase/*.json
+/FirebaseConfig.cs
